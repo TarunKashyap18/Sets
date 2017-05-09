@@ -189,7 +189,7 @@ int main(){
 					cout<<"\n***********END**********";
 					return 0;
 			default :
-					cout<<"\nYou entered the worng choice";
+					cout<<"\nYou entered the wrong choice";
 					cout<<"\nPlease enter your choice again\n";
 					main();
 
